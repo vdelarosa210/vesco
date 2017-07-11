@@ -67,9 +67,9 @@ h3 {
 
     border-width: 2px;
     border-radius: 0;
-    padding: 12px 26ox 12 px 26px;
+    padding: 12px 26px 12px 26px;
     font-size: 16px;
-    font-weight: 400px;
+    font-weight: 400;
     text-transform: uppercase;
 }
 
@@ -78,7 +78,8 @@ h3 {
     color: white;
 }
 
-.btn-white:hover, btn-white:focus {
+.btn-white:hover, .btn-white:focus {
     background-color: white;
+    color: #41464b;
 }
 
